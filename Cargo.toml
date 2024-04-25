@@ -1,0 +1,10 @@
+[package]
+name = "evtsync"
+version = "0.0.0"
+edition = "2021"
+description = "Sync an event log between a server and multiple clients"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
